@@ -8,7 +8,7 @@ services:
     plan: free
     name: Best-Render
     env: python
-    repo: https://github.com/The-Tepthon/Userbot
+    repo: https://github.com/Ahmadzcc/Userbota
     buildCommand: pip install -U -r requirements.txt
     startCommand: python3 server.py & python3 -m Tepthon
     region: frankfurt
